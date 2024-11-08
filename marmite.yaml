@@ -1,13 +1,12 @@
-name: Your Blog
-tagline: Things you talk about
-url: https://YOURUSER.github.io/blog
+name: PDH.Stat Codelist explorer
+tagline: An experimental thingy
+url: https://pacificcommunity.github.io/pdh-dotstat-codelist_explorer/
 menu:
   - ["About", "about.html"]
   - ["Pages", "pages.html"]
   - ["Tags", "tags.html"]
-  - ["Follow me", "https://mastodon.social/@YOURUSER"]
-  - ["Github", "https://github.com/rochacbruno/marmite"]
-
+  - ["Github", "https://github.com/PacificCommunity/pdh-dotstat-codelist_explorer"]
+enable_search: true
 
 # More options available to customize the website
 # read on https://rochacbruno.github.io/marmite/tag/customization.html

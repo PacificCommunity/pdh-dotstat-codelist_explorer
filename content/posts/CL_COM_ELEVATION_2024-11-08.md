@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for FAO food groupsListe de codes les groupes d eproduits alimentaires de la FAO
+# CL_COM_FOOD_FAO
 
-Codelist name: Codelist for FAO food groupsListe de codes les groupes d eproduits alimentaires de la FAO
-Codelist id: CL_COM_FOOD_FAO
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_FOOD_FAO/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_FOOD_FAO/1.0)
+Codelist name: Codelist for FAO food groupsListe de codes les groupes d eproduits alimentaires de la FAO  
+Codelist id: CL_COM_FOOD_FAO  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_FOOD_FAO/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_FOOD_FAO/1.0)  
+
+Codes:  
 
 |id |label.en                          |name.en                           |description.en |label.fr                               |name.fr                                |description.fr |
 |:--|:---------------------------------|:---------------------------------|:--------------|:--------------------------------------|:--------------------------------------|:--------------|

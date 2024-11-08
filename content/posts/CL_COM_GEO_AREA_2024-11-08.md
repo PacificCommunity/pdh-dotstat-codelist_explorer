@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Common codelist for houshold compositionsListe de codes communes pour le composition des ménages
+# CL_COM_HHCOMP
 
-Codelist name: Common codelist for houshold compositionsListe de codes communes pour le composition des ménages
-Codelist id: CL_COM_HHCOMP
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_HHCOMP/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_HHCOMP/1.0)
+Codelist name: Common codelist for houshold compositionsListe de codes communes pour le composition des ménages  
+Codelist id: CL_COM_HHCOMP  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_HHCOMP/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_HHCOMP/1.0)  
+
+Codes:  
 
 |id |label.en                                  |name.en                                   |description.en |label.fr                                    |name.fr                                     |description.fr |
 |:--|:-----------------------------------------|:-----------------------------------------|:--------------|:-------------------------------------------|:-------------------------------------------|:--------------|

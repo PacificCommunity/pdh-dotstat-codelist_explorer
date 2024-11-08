@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for coastal population indicatorsListe de codes pour les indicateurs de la population côtière
+# CL_POP_COAST_INDICATORS
 
-Codelist name: Codelist for coastal population indicatorsListe de codes pour les indicateurs de la population côtière
-Codelist id: CL_POP_COAST_INDICATORS
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_POP_COAST_INDICATORS/2.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_POP_COAST_INDICATORS/2.0)
+Codelist name: Codelist for coastal population indicatorsListe de codes pour les indicateurs de la population côtière  
+Codelist id: CL_POP_COAST_INDICATORS  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_POP_COAST_INDICATORS/2.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_POP_COAST_INDICATORS/2.0)  
+
+Codes:  
 
 |id           |label.en                                 |name.en                                  |description.en |label.fr                                 |name.fr                                  |description.fr |
 |:------------|:----------------------------------------|:----------------------------------------|:--------------|:----------------------------------------|:----------------------------------------|:--------------|

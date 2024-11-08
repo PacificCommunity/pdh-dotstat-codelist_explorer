@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for population projections indicatorsListe de codes pour les indicateurs des projections d population
+# CL_POP_PROJ_INDICATORS
 
-Codelist name: Codelist for population projections indicatorsListe de codes pour les indicateurs des projections d population
-Codelist id: CL_POP_PROJ_INDICATORS
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_POP_PROJ_INDICATORS/3.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_POP_PROJ_INDICATORS/3.0)
+Codelist name: Codelist for population projections indicatorsListe de codes pour les indicateurs des projections d population  
+Codelist id: CL_POP_PROJ_INDICATORS  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_POP_PROJ_INDICATORS/3.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_POP_PROJ_INDICATORS/3.0)  
+
+Codes:  
 
 |id            |label.en                              |name.en                               |description.en |label.fr                                          |name.fr                                           |description.fr |
 |:-------------|:-------------------------------------|:-------------------------------------|:--------------|:-------------------------------------------------|:-------------------------------------------------|:--------------|

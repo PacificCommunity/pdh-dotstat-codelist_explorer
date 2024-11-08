@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Common codelist for HS17 classificationListe de codes commune pour la classification HS17
+# CL_COM_HS17
 
-Codelist name: Common codelist for HS17 classificationListe de codes commune pour la classification HS17
-Codelist id: CL_COM_HS17
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_HS17/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_HS17/1.0)
+Codelist name: Common codelist for HS17 classificationListe de codes commune pour la classification HS17  
+Codelist id: CL_COM_HS17  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_HS17/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_HS17/1.0)  
+
+Codes:  
 
 |id    |label.en                                                                                |name.en                                                                                 |description.en |label.fr                                                                                                       |name.fr                                                                                                        |description.fr |
 |:-----|:---------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------|:--------------|:--------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------|:--------------|

@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for TRADE_ICT indicatorsListe de codes pour les indicateurs TRADE_ICT
+# CL_TRADE_ICT_INDICATORS
 
-Codelist name: Codelist for TRADE_ICT indicatorsListe de codes pour les indicateurs TRADE_ICT
-Codelist id: CL_TRADE_ICT_INDICATORS
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_TRADE_ICT_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_TRADE_ICT_INDICATORS/1.0)
+Codelist name: Codelist for TRADE_ICT indicatorsListe de codes pour les indicateurs TRADE_ICT  
+Codelist id: CL_TRADE_ICT_INDICATORS  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_TRADE_ICT_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_TRADE_ICT_INDICATORS/1.0)  
+
+Codes:  
 
 |id        |label.en                              |name.en                               |description.en |label.fr                                                 |name.fr                                                  |description.fr |
 |:---------|:-------------------------------------|:-------------------------------------|:--------------|:--------------------------------------------------------|:--------------------------------------------------------|:--------------|

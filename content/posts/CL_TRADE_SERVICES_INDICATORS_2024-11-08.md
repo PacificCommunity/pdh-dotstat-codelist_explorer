@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for VAW ACTUALITY
+# CL_VAW_ACTUALITY
 
-Codelist name: Codelist for VAW ACTUALITY
-Codelist id: CL_VAW_ACTUALITY
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_VAW_ACTUALITY/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_VAW_ACTUALITY/1.0)
+Codelist name: Codelist for VAW ACTUALITY  
+Codelist id: CL_VAW_ACTUALITY  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_VAW_ACTUALITY/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_VAW_ACTUALITY/1.0)  
+
+Codes:  
 
 |id      |label.en                            |name.en                             |description.en |label.fr                                        |name.fr                                         |description.fr |
 |:-------|:-----------------------------------|:-----------------------------------|:--------------|:-----------------------------------------------|:-----------------------------------------------|:--------------|

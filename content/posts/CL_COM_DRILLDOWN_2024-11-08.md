@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for FAO activity groupsListe de codes les groupes d'activités de la FAO
+# CL_COM_FOOD_ACTIVITY
 
-Codelist name: Codelist for FAO activity groupsListe de codes les groupes d'activités de la FAO
-Codelist id: CL_COM_FOOD_ACTIVITY
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_FOOD_ACTIVITY/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_FOOD_ACTIVITY/1.0)
+Codelist name: Codelist for FAO activity groupsListe de codes les groupes d'activités de la FAO  
+Codelist id: CL_COM_FOOD_ACTIVITY  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_FOOD_ACTIVITY/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_FOOD_ACTIVITY/1.0)  
+
+Codes:  
 
 |id        |label.en        |name.en         |description.en                                                      |label.fr             |name.fr              |description.fr                                                              |
 |:---------|:---------------|:---------------|:-------------------------------------------------------------------|:--------------------|:--------------------|:---------------------------------------------------------------------------|

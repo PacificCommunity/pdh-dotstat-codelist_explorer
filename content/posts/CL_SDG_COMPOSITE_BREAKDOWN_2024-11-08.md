@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for SOCECO indicatorsListe de codes pour les idnicateurs SOCECO
+# CL_SOCECO_INDICATORS
 
-Codelist name: Codelist for SOCECO indicatorsListe de codes pour les idnicateurs SOCECO
-Codelist id: CL_SOCECO_INDICATORS
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_SOCECO_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_SOCECO_INDICATORS/1.0)
+Codelist name: Codelist for SOCECO indicatorsListe de codes pour les idnicateurs SOCECO  
+Codelist id: CL_SOCECO_INDICATORS  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_SOCECO_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_SOCECO_INDICATORS/1.0)  
+
+Codes:  
 
 |id         |label.en                                                                                    |name.en                                                                                     |description.en |label.fr                                                                                                                     |name.fr                                                                                                                      |description.fr |
 |:----------|:-------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------|:--------------|:----------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------|:--------------|

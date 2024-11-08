@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for SDG value naturesListe de codes pour les natures des valeurs des ODD
+# CL_SDG_NATURE
 
-Codelist name: Codelist for SDG value naturesListe de codes pour les natures des valeurs des ODD
-Codelist id: CL_SDG_NATURE
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_SDG_NATURE/3.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_SDG_NATURE/3.0)
+Codelist name: Codelist for SDG value naturesListe de codes pour les natures des valeurs des ODD  
+Codelist id: CL_SDG_NATURE  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_SDG_NATURE/3.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_SDG_NATURE/3.0)  
+
+Codes:  
 
 |id |label.en               |name.en                |description.en |label.fr                       |name.fr                        |description.fr |
 |:--|:----------------------|:----------------------|:--------------|:------------------------------|:------------------------------|:--------------|

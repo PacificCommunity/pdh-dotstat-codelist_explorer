@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Code list for commodity pricesListe de codes pour les prix de marchandises
+# CL_COMMODITY_PRICES
 
-Codelist name: Code list for commodity pricesListe de codes pour les prix de marchandises
-Codelist id: CL_COMMODITY_PRICES
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COMMODITY_PRICES/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COMMODITY_PRICES/1.0)
+Codelist name: Code list for commodity pricesListe de codes pour les prix de marchandises  
+Codelist id: CL_COMMODITY_PRICES  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COMMODITY_PRICES/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COMMODITY_PRICES/1.0)  
+
+Codes:  
 
 |id            |label.en                                             |name.en                                              |description.en |label.fr                           |name.fr                            |description.fr |
 |:-------------|:----------------------------------------------------|:----------------------------------------------------|:--------------|:----------------------------------|:----------------------------------|:--------------|

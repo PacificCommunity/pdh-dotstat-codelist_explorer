@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for HHEXP indicatorsListe de codes pour les idnicateurs HHEXP
+# CL_HHEXP_INDICATORS
 
-Codelist name: Codelist for HHEXP indicatorsListe de codes pour les idnicateurs HHEXP
-Codelist id: CL_HHEXP_INDICATORS
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_HHEXP_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_HHEXP_INDICATORS/1.0)
+Codelist name: Codelist for HHEXP indicatorsListe de codes pour les idnicateurs HHEXP  
+Codelist id: CL_HHEXP_INDICATORS  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_HHEXP_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_HHEXP_INDICATORS/1.0)  
+
+Codes:  
 
 |id        |label.en                             |name.en                              |description.en |label.fr                            |name.fr                             |description.fr |
 |:---------|:------------------------------------|:------------------------------------|:--------------|:-----------------------------------|:-----------------------------------|:--------------|

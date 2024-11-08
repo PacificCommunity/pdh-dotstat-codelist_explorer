@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for Youth in Parliament IndicatorsCodelist pour les indicateurs de la jeunesse au Parlement
+# CL_YOUTH_PARL_INDICATORS
 
-Codelist name: Codelist for Youth in Parliament IndicatorsCodelist pour les indicateurs de la jeunesse au Parlement
-Codelist id: CL_YOUTH_PARL_INDICATORS
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_YOUTH_PARL_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_YOUTH_PARL_INDICATORS/1.0)
+Codelist name: Codelist for Youth in Parliament IndicatorsCodelist pour les indicateurs de la jeunesse au Parlement  
+Codelist id: CL_YOUTH_PARL_INDICATORS  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_YOUTH_PARL_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_YOUTH_PARL_INDICATORS/1.0)  
+
+Codes:  
 
 |id  |label.en                              |name.en                               |description.en                                                             |label.fr                             |name.fr                              |description.fr                                                    |
 |:---|:-------------------------------------|:-------------------------------------|:--------------------------------------------------------------------------|:------------------------------------|:------------------------------------|:-----------------------------------------------------------------|

@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Common codelist for government revenue and expenditure (hybrid classification OECE for revenues and IMF for expenditure)Liste de codes commune pour les recettes et les dépenses publiques (classification hybride OCDE pour les rectettes et FMI pour les dépenses)
+# CL_COM_GFS
 
-Codelist name: Common codelist for government revenue and expenditure (hybrid classification OECE for revenues and IMF for expenditure)Liste de codes commune pour les recettes et les dépenses publiques (classification hybride OCDE pour les rectettes et FMI pour les dépenses)
-Codelist id: CL_COM_GFS
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_GFS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_GFS/1.0)
+Codelist name: Common codelist for government revenue and expenditure (hybrid classification OECE for revenues and IMF for expenditure)Liste de codes commune pour les recettes et les dépenses publiques (classification hybride OCDE pour les rectettes et FMI pour les dépenses)  
+Codelist id: CL_COM_GFS  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_GFS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_GFS/1.0)  
+
+Codes:  
 
 |id     |label.en                                                                                     |name.en                                                                                      |description.en |label.fr                                                                                                             |name.fr                                                                                                              |description.fr |
 |:------|:--------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:--------------|:--------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------|:--------------|

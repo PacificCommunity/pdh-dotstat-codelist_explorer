@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for REVENUE indicatorsListe de codes pour les idnicateurs REVENUE
+# CL_REVENUE_INDICATORS
 
-Codelist name: Codelist for REVENUE indicatorsListe de codes pour les idnicateurs REVENUE
-Codelist id: CL_REVENUE_INDICATORS
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_REVENUE_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_REVENUE_INDICATORS/1.0)
+Codelist name: Codelist for REVENUE indicatorsListe de codes pour les idnicateurs REVENUE  
+Codelist id: CL_REVENUE_INDICATORS  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_REVENUE_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_REVENUE_INDICATORS/1.0)  
+
+Codes:  
 
 |id     |label.en                                     |name.en                                      |description.en |label.fr                                                   |name.fr                                                    |description.fr |
 |:------|:--------------------------------------------|:--------------------------------------------|:--------------|:----------------------------------------------------------|:----------------------------------------------------------|:--------------|

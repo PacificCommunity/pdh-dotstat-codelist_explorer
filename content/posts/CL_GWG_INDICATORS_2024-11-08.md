@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for HEALTH indicatorsListe de codes pour les idnicateurs HEALTH
+# CL_HEALTH_TOPICS
 
-Codelist name: Codelist for HEALTH indicatorsListe de codes pour les idnicateurs HEALTH
-Codelist id: CL_HEALTH_TOPICS
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_HEALTH_TOPICS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_HEALTH_TOPICS/1.0)
+Codelist name: Codelist for HEALTH indicatorsListe de codes pour les idnicateurs HEALTH  
+Codelist id: CL_HEALTH_TOPICS  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_HEALTH_TOPICS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_HEALTH_TOPICS/1.0)  
+
+Codes:  
 
 |id  |label.en                        |name.en                         |description.en |label.fr                        |name.fr                         |description.fr |
 |:---|:-------------------------------|:-------------------------------|:--------------|:-------------------------------|:-------------------------------|:--------------|

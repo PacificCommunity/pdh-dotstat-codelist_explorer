@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for IMFFAS indicatorsListe de codes pour les indicateurs IMFFAS
+# CL_IMFFAS_INDICATORS
 
-Codelist name: Codelist for IMFFAS indicatorsListe de codes pour les indicateurs IMFFAS
-Codelist id: CL_IMFFAS_INDICATORS
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_IMFFAS_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_IMFFAS_INDICATORS/1.0)
+Codelist name: Codelist for IMFFAS indicatorsListe de codes pour les indicateurs IMFFAS  
+Codelist id: CL_IMFFAS_INDICATORS  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_IMFFAS_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_IMFFAS_INDICATORS/1.0)  
+
+Codes:  
 
 |id          |label.en                                                          |name.en                                                           |description.en |label.fr                                                                     |name.fr                                                                      |description.fr |
 |:-----------|:-----------------------------------------------------------------|:-----------------------------------------------------------------|:--------------|:----------------------------------------------------------------------------|:----------------------------------------------------------------------------|:--------------|

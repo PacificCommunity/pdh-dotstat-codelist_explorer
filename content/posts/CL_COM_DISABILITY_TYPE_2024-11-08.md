@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Common codelist for flow typeListe de codes communes pour le type de flux
+# CL_COM_FLOW_TYPE
 
-Codelist name: Common codelist for flow typeListe de codes communes pour le type de flux
-Codelist id: CL_COM_FLOW_TYPE
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_FLOW_TYPE/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_FLOW_TYPE/1.0)
+Codelist name: Common codelist for flow typeListe de codes communes pour le type de flux  
+Codelist id: CL_COM_FLOW_TYPE  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_FLOW_TYPE/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_FLOW_TYPE/1.0)  
+
+Codes:  
 
 |id   |label.en    |name.en     |description.en                                |label.fr         |name.fr          |description.fr                                      |
 |:----|:-----------|:-----------|:---------------------------------------------|:----------------|:----------------|:---------------------------------------------------|

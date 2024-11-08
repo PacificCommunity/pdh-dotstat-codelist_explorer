@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for VAW RESPONSE
+# CL_VAW_RESPONSE
 
-Codelist name: Codelist for VAW RESPONSE
-Codelist id: CL_VAW_RESPONSE
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_VAW_RESPONSE/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_VAW_RESPONSE/1.0)
+Codelist name: Codelist for VAW RESPONSE  
+Codelist id: CL_VAW_RESPONSE  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_VAW_RESPONSE/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_VAW_RESPONSE/1.0)  
+
+Codes:  
 
 |id      |label.en                             |name.en                              |description.en |label.fr                                       |name.fr                                        |description.fr |
 |:-------|:------------------------------------|:------------------------------------|:--------------|:----------------------------------------------|:----------------------------------------------|:--------------|

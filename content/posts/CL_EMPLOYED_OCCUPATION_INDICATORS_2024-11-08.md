@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for ENERGY topicsListe de codes pour les thèmes ENERGY
+# CL_ENERGY_TOPICS
 
-Codelist name: Codelist for ENERGY topicsListe de codes pour les thèmes ENERGY
-Codelist id: CL_ENERGY_TOPICS
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_ENERGY_TOPICS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_ENERGY_TOPICS/1.0)
+Codelist name: Codelist for ENERGY topicsListe de codes pour les thèmes ENERGY  
+Codelist id: CL_ENERGY_TOPICS  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_ENERGY_TOPICS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_ENERGY_TOPICS/1.0)  
+
+Codes:  
 
 |id  |label.en              |name.en               |description.en |label.fr                            |name.fr                             |description.fr |
 |:---|:---------------------|:---------------------|:--------------|:-----------------------------------|:-----------------------------------|:--------------|

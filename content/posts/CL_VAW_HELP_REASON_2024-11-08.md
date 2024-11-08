@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for VAW OUTCOME
+# CL_VAW_OUTCOME
 
-Codelist name: Codelist for VAW OUTCOME
-Codelist id: CL_VAW_OUTCOME
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_VAW_OUTCOME/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_VAW_OUTCOME/1.0)
+Codelist name: Codelist for VAW OUTCOME  
+Codelist id: CL_VAW_OUTCOME  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_VAW_OUTCOME/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_VAW_OUTCOME/1.0)  
+
+Codes:  
 
 |id            |label.en                                                                  |name.en                                                                   |description.en |label.fr                                                                  |name.fr                                                                   |description.fr |
 |:-------------|:-------------------------------------------------------------------------|:-------------------------------------------------------------------------|:--------------|:-------------------------------------------------------------------------|:-------------------------------------------------------------------------|:--------------|

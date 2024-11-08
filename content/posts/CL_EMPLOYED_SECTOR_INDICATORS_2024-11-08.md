@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for food data typesListe de codes pour les types de donénes relatives aux aliments
+# CL_FOOD_DATA_TYPES
 
-Codelist name: Codelist for food data typesListe de codes pour les types de donénes relatives aux aliments
-Codelist id: CL_FOOD_DATA_TYPES
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_FOOD_DATA_TYPES/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_FOOD_DATA_TYPES/1.0)
+Codelist name: Codelist for food data typesListe de codes pour les types de donénes relatives aux aliments  
+Codelist id: CL_FOOD_DATA_TYPES  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_FOOD_DATA_TYPES/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_FOOD_DATA_TYPES/1.0)  
+
+Codes:  
 
 |id |label.en                                                      |name.en                                                       |description.en |label.fr                                                                                    |name.fr                                                                                     |description.fr |
 |:--|:-------------------------------------------------------------|:-------------------------------------------------------------|:--------------|:-------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------|:--------------|

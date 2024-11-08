@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for DIGITAL_DEVELOPMENT indicatorsListe de codes pour les indicateurs DIGITAL_DEVELOPMENT
+# CL_DIGITAL_DEVELOPMENT_INDICATORS
 
-Codelist name: Codelist for DIGITAL_DEVELOPMENT indicatorsListe de codes pour les indicateurs DIGITAL_DEVELOPMENT
-Codelist id: CL_DIGITAL_DEVELOPMENT_INDICATORS
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_DIGITAL_DEVELOPMENT_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_DIGITAL_DEVELOPMENT_INDICATORS/1.0)
+Codelist name: Codelist for DIGITAL_DEVELOPMENT indicatorsListe de codes pour les indicateurs DIGITAL_DEVELOPMENT  
+Codelist id: CL_DIGITAL_DEVELOPMENT_INDICATORS  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_DIGITAL_DEVELOPMENT_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_DIGITAL_DEVELOPMENT_INDICATORS/1.0)  
+
+Codes:  
 
 |id     |label.en                                                                                   |name.en                                                                                    |description.en |label.fr                                                                                  |name.fr                                                                                   |description.fr |
 |:------|:------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|:--------------|:-----------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:--------------|

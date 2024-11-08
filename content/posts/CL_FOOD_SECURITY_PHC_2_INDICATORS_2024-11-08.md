@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for HEALTH_FACILITIES identfiersListe de codes pour les identfiants HEALTH_FACILITIES
+# CL_HEALTH_FACILITIES_IDENTIFIERS
 
-Codelist name: Codelist for HEALTH_FACILITIES identfiersListe de codes pour les identfiants HEALTH_FACILITIES
-Codelist id: CL_HEALTH_FACILITIES_IDENTIFIERS
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_HEALTH_FACILITIES_IDENTIFIERS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_HEALTH_FACILITIES_IDENTIFIERS/1.0)
+Codelist name: Codelist for HEALTH_FACILITIES identfiersListe de codes pour les identfiants HEALTH_FACILITIES  
+Codelist id: CL_HEALTH_FACILITIES_IDENTIFIERS  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_HEALTH_FACILITIES_IDENTIFIERS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_HEALTH_FACILITIES_IDENTIFIERS/1.0)  
+
+Codes:  
 
 |id       |label.en  |name.en   |description.en |label.fr          |name.fr           |description.fr |
 |:--------|:---------|:---------|:--------------|:-----------------|:-----------------|:--------------|

@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for COVID_VACCINATION indicatorsListe de codes pour les indicateurs COVID_VACCINATION
+# CL_COVID_VACCINATION_INDICATORS
 
-Codelist name: Codelist for COVID_VACCINATION indicatorsListe de codes pour les indicateurs COVID_VACCINATION
-Codelist id: CL_COVID_VACCINATION_INDICATORS
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COVID_VACCINATION_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COVID_VACCINATION_INDICATORS/1.0)
+Codelist name: Codelist for COVID_VACCINATION indicatorsListe de codes pour les indicateurs COVID_VACCINATION  
+Codelist id: CL_COVID_VACCINATION_INDICATORS  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COVID_VACCINATION_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COVID_VACCINATION_INDICATORS/1.0)  
+
+Codes:  
 
 |id            |label.en                       |name.en                        |description.en |label.fr                                      |name.fr                                       |description.fr |
 |:-------------|:------------------------------|:------------------------------|:--------------|:---------------------------------------------|:---------------------------------------------|:--------------|

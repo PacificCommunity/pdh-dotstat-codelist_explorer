@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for PAM indicatorsListe de codes pour les indicateurs PAM
+# CL_PAM_INDICATORS
 
-Codelist name: Codelist for PAM indicatorsListe de codes pour les indicateurs PAM
-Codelist id: CL_PAM_INDICATORS
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_PAM_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_PAM_INDICATORS/1.0)
+Codelist name: Codelist for PAM indicatorsListe de codes pour les indicateurs PAM  
+Codelist id: CL_PAM_INDICATORS  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_PAM_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_PAM_INDICATORS/1.0)  
+
+Codes:  
 
 |id    |label.en               |name.en                |description.en |label.fr                |name.fr                 |description.fr |
 |:-----|:----------------------|:----------------------|:--------------|:-----------------------|:-----------------------|:--------------|

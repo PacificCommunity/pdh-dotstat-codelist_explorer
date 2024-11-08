@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Common codelist for service modeListe de codes commune pour les modes de service
+# CL_COM_SERVICE_MODE
 
-Codelist name: Common codelist for service modeListe de codes commune pour les modes de service
-Codelist id: CL_COM_SERVICE_MODE
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_SERVICE_MODE/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_SERVICE_MODE/1.0)
+Codelist name: Common codelist for service modeListe de codes commune pour les modes de service  
+Codelist id: CL_COM_SERVICE_MODE  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_SERVICE_MODE/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_SERVICE_MODE/1.0)  
+
+Codes:  
 
 |id |label.en                    |name.en                     |description.en |label.fr                        |name.fr                         |description.fr |
 |:--|:---------------------------|:---------------------------|:--------------|:-------------------------------|:-------------------------------|:--------------|

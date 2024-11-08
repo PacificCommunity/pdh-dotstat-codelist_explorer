@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Common hierarchical codelist for geographical areasListe hiérarchique de codes commune pour les zones géographiques
+# CL_COM_GEO_AREA
 
-Codelist name: Common hierarchical codelist for geographical areasListe hiérarchique de codes commune pour les zones géographiques
-Codelist id: CL_COM_GEO_AREA
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_GEO_AREA/2.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_GEO_AREA/2.0)
+Codelist name: Common hierarchical codelist for geographical areasListe hiérarchique de codes commune pour les zones géographiques  
+Codelist id: CL_COM_GEO_AREA  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_GEO_AREA/2.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_GEO_AREA/2.0)  
+
+Codes:  
 
 |id    |label.en                                     |name.en                                      |description.en |label.fr                                    |name.fr                                     |description.fr |
 |:-----|:--------------------------------------------|:--------------------------------------------|:--------------|:-------------------------------------------|:-------------------------------------------|:--------------|

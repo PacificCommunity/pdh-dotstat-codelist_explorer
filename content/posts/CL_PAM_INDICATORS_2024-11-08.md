@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for population density indicatorsListe de codes pour les indicateurs de la densité de population
+# CL_POP_DENSITY_INDICATORS
 
-Codelist name: Codelist for population density indicatorsListe de codes pour les indicateurs de la densité de population
-Codelist id: CL_POP_DENSITY_INDICATORS
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_POP_DENSITY_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_POP_DENSITY_INDICATORS/1.0)
+Codelist name: Codelist for population density indicatorsListe de codes pour les indicateurs de la densité de population  
+Codelist id: CL_POP_DENSITY_INDICATORS  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_POP_DENSITY_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_POP_DENSITY_INDICATORS/1.0)  
+
+Codes:  
 
 |id         |label.en           |name.en            |description.en |label.fr              |name.fr               |description.fr |
 |:----------|:------------------|:------------------|:--------------|:---------------------|:---------------------|:--------------|

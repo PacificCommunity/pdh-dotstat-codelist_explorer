@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for food categoriesListe de codes pour les catégories d'aliments
+# CL_COM_FOOD
 
-Codelist name: Codelist for food categoriesListe de codes pour les catégories d'aliments
-Codelist id: CL_COM_FOOD
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_FOOD/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_FOOD/1.0)
+Codelist name: Codelist for food categoriesListe de codes pour les catégories d'aliments  
+Codelist id: CL_COM_FOOD  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_FOOD/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_FOOD/1.0)  
+
+Codes:  
 
 |id            |label.en                                                                                                                                                       |name.en                                                                                                                                                        |description.en |label.fr                                                                                                                                                                                     |name.fr                                                                                                                                                                                      |description.fr |
 |:-------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|

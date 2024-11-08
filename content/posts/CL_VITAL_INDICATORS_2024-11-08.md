@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for WBDAI indicatorsListe de codes pour les indicateurs WBDAI
+# CL_WBDAI_INDICATORS
 
-Codelist name: Codelist for WBDAI indicatorsListe de codes pour les indicateurs WBDAI
-Codelist id: CL_WBDAI_INDICATORS
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_WBDAI_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_WBDAI_INDICATORS/1.0)
+Codelist name: Codelist for WBDAI indicatorsListe de codes pour les indicateurs WBDAI  
+Codelist id: CL_WBDAI_INDICATORS  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_WBDAI_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_WBDAI_INDICATORS/1.0)  
+
+Codes:  
 
 |id     |label.en                 |name.en                  |description.en |label.fr                     |name.fr                      |description.fr |
 |:------|:------------------------|:------------------------|:--------------|:----------------------------|:----------------------------|:--------------|

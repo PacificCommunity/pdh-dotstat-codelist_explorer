@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Common codelist for donorsListe de codes communes pour les donneurs
+# CL_COM_DONOR
 
-Codelist name: Common codelist for donorsListe de codes communes pour les donneurs
-Codelist id: CL_COM_DONOR
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_DONOR/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_DONOR/1.0)
+Codelist name: Common codelist for donorsListe de codes communes pour les donneurs  
+Codelist id: CL_COM_DONOR  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_DONOR/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_DONOR/1.0)  
+
+Codes:  
 
 |id        |label.en                                                |name.en                                                 |description.en |label.fr                                                                 |name.fr                                                                  |description.fr |
 |:---------|:-------------------------------------------------------|:-------------------------------------------------------|:--------------|:------------------------------------------------------------------------|:------------------------------------------------------------------------|:--------------|

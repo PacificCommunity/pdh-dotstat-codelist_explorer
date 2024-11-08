@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for IMTS indicatorsListe de codes pour les indicateurs IMTS
+# CL_COM_TRANSPORT
 
-Codelist name: Codelist for IMTS indicatorsListe de codes pour les indicateurs IMTS
-Codelist id: CL_COM_TRANSPORT
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_TRANSPORT/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_TRANSPORT/1.0)
+Codelist name: Codelist for IMTS indicatorsListe de codes pour les indicateurs IMTS  
+Codelist id: CL_COM_TRANSPORT  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_TRANSPORT/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_TRANSPORT/1.0)  
+
+Codes:  
 
 |id  |label.en                                       |name.en                                        |description.en |label.fr                                         |name.fr                                          |description.fr |
 |:---|:----------------------------------------------|:----------------------------------------------|:--------------|:------------------------------------------------|:------------------------------------------------|:--------------|

@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for EGOV indicatorsListe de codes pour les indicateurs EGOV
+# CL_EGOV_INDICATORS
 
-Codelist name: Codelist for EGOV indicatorsListe de codes pour les indicateurs EGOV
-Codelist id: CL_EGOV_INDICATORS
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_EGOV_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_EGOV_INDICATORS/1.0)
+Codelist name: Codelist for EGOV indicatorsListe de codes pour les indicateurs EGOV  
+Codelist id: CL_EGOV_INDICATORS  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_EGOV_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_EGOV_INDICATORS/1.0)  
+
+Codes:  
 
 |id  |label.en                               |name.en                                |description.en |label.fr                               |name.fr                                |description.fr |
 |:---|:--------------------------------------|:--------------------------------------|:--------------|:--------------------------------------|:--------------------------------------|:--------------|

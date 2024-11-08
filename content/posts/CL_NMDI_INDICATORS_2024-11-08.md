@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for overseas visitors typeListe de codes pour les types de visiteurs étranger
+# CL_OVERSEAS_VISITORS_TYPE
 
-Codelist name: Codelist for overseas visitors typeListe de codes pour les types de visiteurs étranger
-Codelist id: CL_OVERSEAS_VISITORS_TYPE
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_OVERSEAS_VISITORS_TYPE/2.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_OVERSEAS_VISITORS_TYPE/2.0)
+Codelist name: Codelist for overseas visitors typeListe de codes pour les types de visiteurs étranger  
+Codelist id: CL_OVERSEAS_VISITORS_TYPE  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_OVERSEAS_VISITORS_TYPE/2.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_OVERSEAS_VISITORS_TYPE/2.0)  
+
+Codes:  
 
 |id  |label.en      |name.en       |description.en |label.fr       |name.fr        |description.fr |
 |:---|:-------------|:-------------|:--------------|:--------------|:--------------|:--------------|

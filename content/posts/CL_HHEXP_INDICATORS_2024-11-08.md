@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for IMTS indicatorsListe de codes pour les indicateurs IMTS
+# CL_IMTS_INDICATORS
 
-Codelist name: Codelist for IMTS indicatorsListe de codes pour les indicateurs IMTS
-Codelist id: CL_IMTS_INDICATORS
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_IMTS_INDICATORS/4.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_IMTS_INDICATORS/4.0)
+Codelist name: Codelist for IMTS indicatorsListe de codes pour les indicateurs IMTS  
+Codelist id: CL_IMTS_INDICATORS  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_IMTS_INDICATORS/4.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_IMTS_INDICATORS/4.0)  
+
+Codes:  
 
 |id  |label.en                                |name.en                                 |description.en |label.fr                                                 |name.fr                                                  |description.fr |
 |:---|:---------------------------------------|:---------------------------------------|:--------------|:--------------------------------------------------------|:--------------------------------------------------------|:--------------|

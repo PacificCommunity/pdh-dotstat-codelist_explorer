@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for EMPLOYED_HHCOMP indicatorsListe de codes pour les indicateurs EMPLOYED_HHCOMP
+# CL_EMPLOYED_HHCOMP_INDICATORS
 
-Codelist name: Codelist for EMPLOYED_HHCOMP indicatorsListe de codes pour les indicateurs EMPLOYED_HHCOMP
-Codelist id: CL_EMPLOYED_HHCOMP_INDICATORS
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_EMPLOYED_HHCOMP_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_EMPLOYED_HHCOMP_INDICATORS/1.0)
+Codelist name: Codelist for EMPLOYED_HHCOMP indicatorsListe de codes pour les indicateurs EMPLOYED_HHCOMP  
+Codelist id: CL_EMPLOYED_HHCOMP_INDICATORS  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_EMPLOYED_HHCOMP_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_EMPLOYED_HHCOMP_INDICATORS/1.0)  
+
+Codes:  
 
 |id         |label.en                       |name.en                        |description.en |label.fr                           |name.fr                            |description.fr |
 |:----------|:------------------------------|:------------------------------|:--------------|:----------------------------------|:----------------------------------|:--------------|

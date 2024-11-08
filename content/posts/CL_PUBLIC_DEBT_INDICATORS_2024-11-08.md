@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for SDG indicatorsListe de codes pour le indicateurs des ODD
+# CL_SDG_INDICATORS
 
-Codelist name: Codelist for SDG indicatorsListe de codes pour le indicateurs des ODD
-Codelist id: CL_SDG_INDICATORS
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_SDG_INDICATORS/3.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_SDG_INDICATORS/3.0)
+Codelist name: Codelist for SDG indicatorsListe de codes pour le indicateurs des ODD  
+Codelist id: CL_SDG_INDICATORS  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_SDG_INDICATORS/3.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_SDG_INDICATORS/3.0)  
+
+Codes:  
 
 |id                |label.en                                                                                                                                                                                             |name.en                                                                                                                                                                                              |description.en |label.fr                                                                                                                                                                                                                            |name.fr                                                                                                                                                                                                                             |description.fr |
 |:-----------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|

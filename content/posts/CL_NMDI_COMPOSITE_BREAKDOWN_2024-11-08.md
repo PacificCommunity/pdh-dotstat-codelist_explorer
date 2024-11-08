@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for overseas visitors arriavls  indicatorsListe de codes pour les indicateurs des arrivées de visiteurs étrangers
+# CL_OVERSEAS_VISITORS_INDICATORS
 
-Codelist name: Codelist for overseas visitors arriavls  indicatorsListe de codes pour les indicateurs des arrivées de visiteurs étrangers
-Codelist id: CL_OVERSEAS_VISITORS_INDICATORS
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_OVERSEAS_VISITORS_INDICATORS/2.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_OVERSEAS_VISITORS_INDICATORS/2.0)
+Codelist name: Codelist for overseas visitors arriavls  indicatorsListe de codes pour les indicateurs des arrivées de visiteurs étrangers  
+Codelist id: CL_OVERSEAS_VISITORS_INDICATORS  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_OVERSEAS_VISITORS_INDICATORS/2.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_OVERSEAS_VISITORS_INDICATORS/2.0)  
+
+Codes:  
 
 |id    |label.en                             |name.en                              |description.en |label.fr                                 |name.fr                                  |description.fr |
 |:-----|:------------------------------------|:------------------------------------|:--------------|:----------------------------------------|:----------------------------------------|:--------------|

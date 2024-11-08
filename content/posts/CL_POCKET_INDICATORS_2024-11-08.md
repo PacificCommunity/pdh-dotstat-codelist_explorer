@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for POP_LECZ indicatorsListe de codes pour les indicateurs POP_LECZ
+# CL_POP_LECZ_INDICATORS
 
-Codelist name: Codelist for POP_LECZ indicatorsListe de codes pour les indicateurs POP_LECZ
-Codelist id: CL_POP_LECZ_INDICATORS
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_POP_LECZ_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_POP_LECZ_INDICATORS/1.0)
+Codelist name: Codelist for POP_LECZ indicatorsListe de codes pour les indicateurs POP_LECZ  
+Codelist id: CL_POP_LECZ_INDICATORS  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_POP_LECZ_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_POP_LECZ_INDICATORS/1.0)  
+
+Codes:  
 
 |id        |label.en                                                       |name.en                                                        |description.en |label.fr                                                           |name.fr                                                            |description.fr |
 |:---------|:--------------------------------------------------------------|:--------------------------------------------------------------|:--------------|:------------------------------------------------------------------|:------------------------------------------------------------------|:--------------|

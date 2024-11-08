@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for pocket summary indicatorsListe de codes pour les indicateurs du résumé statistique de poche
+# CL_POCKET_INDICATORS
 
-Codelist name: Codelist for pocket summary indicatorsListe de codes pour les indicateurs du résumé statistique de poche
-Codelist id: CL_POCKET_INDICATORS
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_POCKET_INDICATORS/3.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_POCKET_INDICATORS/3.0)
+Codelist name: Codelist for pocket summary indicatorsListe de codes pour les indicateurs du résumé statistique de poche  
+Codelist id: CL_POCKET_INDICATORS  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_POCKET_INDICATORS/3.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_POCKET_INDICATORS/3.0)  
+
+Codes:  
 
 |id            |label.en                                                 |name.en                                                  |description.en |label.fr                                                 |name.fr                                                  |description.fr |
 |:-------------|:--------------------------------------------------------|:--------------------------------------------------------|:--------------|:--------------------------------------------------------|:--------------------------------------------------------|:--------------|

@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for VAW indicatorsListe de codes pour les idnicateurs VAW
+# CL_VAW_TOPICS
 
-Codelist name: Codelist for VAW indicatorsListe de codes pour les idnicateurs VAW
-Codelist id: CL_VAW_TOPICS
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_VAW_TOPICS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_VAW_TOPICS/1.0)
+Codelist name: Codelist for VAW indicatorsListe de codes pour les idnicateurs VAW  
+Codelist id: CL_VAW_TOPICS  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_VAW_TOPICS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_VAW_TOPICS/1.0)  
+
+Codes:  
 
 |id            |label.en                                                                       |name.en                                                                        |description.en |label.fr                                                                                                |name.fr                                                                                                 |description.fr |
 |:-------------|:------------------------------------------------------------------------------|:------------------------------------------------------------------------------|:--------------|:-------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------|:--------------|

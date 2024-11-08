@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for TRADE_FOOD geography
+# CL_TRADE_FOOD_GEO
 
-Codelist name: Codelist for TRADE_FOOD geography
-Codelist id: CL_TRADE_FOOD_GEO
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_TRADE_FOOD_GEO/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_TRADE_FOOD_GEO/1.0)
+Codelist name: Codelist for TRADE_FOOD geography  
+Codelist id: CL_TRADE_FOOD_GEO  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_TRADE_FOOD_GEO/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_TRADE_FOOD_GEO/1.0)  
+
+Codes:  
 
 |id       |label.en                                       |name.en                                        |description.en |label.fr                                           |name.fr                                            |description.fr |
 |:--------|:----------------------------------------------|:----------------------------------------------|:--------------|:--------------------------------------------------|:--------------------------------------------------|:--------------|

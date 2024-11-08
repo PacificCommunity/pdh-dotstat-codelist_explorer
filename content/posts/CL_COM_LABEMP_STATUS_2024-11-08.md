@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for PACCOICOP 2020 classificationListe de codes pour la PACCOICOP 2020
+# CL_COM_PACCOICOP20
 
-Codelist name: Codelist for PACCOICOP 2020 classificationListe de codes pour la PACCOICOP 2020
-Codelist id: CL_COM_PACCOICOP20
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_PACCOICOP20/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_PACCOICOP20/1.0)
+Codelist name: Codelist for PACCOICOP 2020 classificationListe de codes pour la PACCOICOP 2020  
+Codelist id: CL_COM_PACCOICOP20  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_PACCOICOP20/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_PACCOICOP20/1.0)  
+
+Codes:  
 
 |id          |label.en                                                                                                                                                                      |name.en                                                                                                                                                                       |description.en |label.fr                                                                                                                                                                                                            |name.fr                                                                                                                                                                                                             |description.fr |
 |:-----------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|

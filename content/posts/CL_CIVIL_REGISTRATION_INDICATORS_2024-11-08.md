@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for animalsListe de codes pour les animaux
+# CL_COM_ANIMAL
 
-Codelist name: Codelist for animalsListe de codes pour les animaux
-Codelist id: CL_COM_ANIMAL
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_ANIMAL/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_ANIMAL/1.0)
+Codelist name: Codelist for animalsListe de codes pour les animaux  
+Codelist id: CL_COM_ANIMAL  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_ANIMAL/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_ANIMAL/1.0)  
+
+Codes:  
 
 |id  |label.en |name.en |description.en |label.fr |name.fr |description.fr |
 |:---|:--------|:-------|:--------------|:--------|:-------|:--------------|

@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for GFS indicatorsListe de codes pour les idnicateurs GFS
+# CL_GFS_INDICATORS
 
-Codelist name: Codelist for GFS indicatorsListe de codes pour les idnicateurs GFS
-Codelist id: CL_GFS_INDICATORS
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_GFS_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_GFS_INDICATORS/1.0)
+Codelist name: Codelist for GFS indicatorsListe de codes pour les idnicateurs GFS  
+Codelist id: CL_GFS_INDICATORS  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_GFS_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_GFS_INDICATORS/1.0)  
+
+Codes:  
 
 |id     |label.en                                     |name.en                                      |description.en |label.fr                                                   |name.fr                                                    |description.fr |
 |:------|:--------------------------------------------|:--------------------------------------------|:--------------|:----------------------------------------------------------|:----------------------------------------------------------|:--------------|

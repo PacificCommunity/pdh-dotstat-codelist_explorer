@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for BP50 reporting typesListe de codes pour les types de raportage des BP50
+# CL_BP50_REPORTING_TYPE
 
-Codelist name: Codelist for BP50 reporting typesListe de codes pour les types de raportage des BP50
-Codelist id: CL_BP50_REPORTING_TYPE
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_BP50_REPORTING_TYPE/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_BP50_REPORTING_TYPE/1.0)
+Codelist name: Codelist for BP50 reporting typesListe de codes pour les types de raportage des BP50  
+Codelist id: CL_BP50_REPORTING_TYPE  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_BP50_REPORTING_TYPE/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_BP50_REPORTING_TYPE/1.0)  
+
+Codes:  
 
 |id |label.en       |name.en        |description.en |label.fr       |name.fr        |description.fr |
 |:--|:--------------|:--------------|:--------------|:--------------|:--------------|:--------------|

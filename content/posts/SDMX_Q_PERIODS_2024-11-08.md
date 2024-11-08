@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Codelist for BP50 indicatorsListe de codes pour le indicateurs des BP50
+# CL_BP50_INDICATORS
 
-Codelist name: Codelist for BP50 indicatorsListe de codes pour le indicateurs des BP50
-Codelist id: CL_BP50_INDICATORS
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_BP50_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_BP50_INDICATORS/1.0)
+Codelist name: Codelist for BP50 indicatorsListe de codes pour le indicateurs des BP50  
+Codelist id: CL_BP50_INDICATORS  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_BP50_INDICATORS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_BP50_INDICATORS/1.0)  
+
+Codes:  
 
 |id              |label.en                                                                                                                                                                                                                                                                                                           |name.en                                                                                                                                                                                                                                                                                                            |description.en |label.fr                                                                                                                                                                                                                                                                                       |name.fr                                                                                                                                                                                                                                                                                        |description.fr |
 |:---------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------|

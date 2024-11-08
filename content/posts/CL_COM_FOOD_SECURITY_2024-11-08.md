@@ -3,11 +3,13 @@ date: 2024-11-08
 tags: codelist
 ---
 
-# Common hierarchical codelist for PICTsListe hiérarchique de codes commune pour les PICTs
+# CL_COM_GEO_PICT
 
-Codelist name: Common hierarchical codelist for PICTsListe hiérarchique de codes commune pour les PICTs
-Codelist id: CL_COM_GEO_PICT
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_GEO_PICT/3.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_GEO_PICT/3.0)
+Codelist name: Common hierarchical codelist for PICTsListe hiérarchique de codes commune pour les PICTs  
+Codelist id: CL_COM_GEO_PICT  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_GEO_PICT/3.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/SPC/CL_COM_GEO_PICT/3.0)  
+
+Codes:  
 
 |id      |label.en                         |name.en                          |description.en |label.fr                           |name.fr                            |description.fr |
 |:-------|:--------------------------------|:--------------------------------|:--------------|:----------------------------------|:----------------------------------|:--------------|

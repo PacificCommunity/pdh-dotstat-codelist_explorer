@@ -5,9 +5,11 @@ tags: codelist
 
 # SDMX_M_PERIODS
 
-Codelist name: SDMX_M_PERIODS
-Codelist id: SDMX_M_PERIODS
-Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/MA/SDMX_M_PERIODS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/MA/SDMX_M_PERIODS/1.0)
+Codelist name: SDMX_M_PERIODS  
+Codelist id: SDMX_M_PERIODS  
+Codelist URL: [http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/MA/SDMX_M_PERIODS/1.0](http://stats-sdmx-disseminate.pacificdata.org/rest/codelist/MA/SDMX_M_PERIODS/1.0)  
+
+Codes:  
 
 |id |label.en |name.en |description.en |label.fr |name.fr |description.fr |
 |:--|:--------|:-------|:--------------|:--------|:-------|:--------------|
